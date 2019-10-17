@@ -14,5 +14,9 @@
   ],
   "author": "",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "arraylist": "^0.1.0",
+    "mv": "^2.1.1"
+  }
 }
